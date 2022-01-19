@@ -1,4 +1,4 @@
-https://potatokaka.github.io/HexLayout_Yoga_2021/
+https://potatokaka.github.io/HexVue_week2/
 
 ## Vue 直播班 Week2 主線任務
 
